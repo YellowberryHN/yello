@@ -9,6 +9,20 @@
     </head>
     <body>
       <h1><a href="https://yello.ooo">yello.ooo</a> — zsolt zitting's website</h1>
-      <h2>It's like a trash compactor for your soul.</h2>
+      <h2>it's like a trash compactor for your soul.</h2>
+      <p>hey there. thanks for visiting this site, i guess. i am a programmer living in the wonderful state of utah
+          and i also do other shit. see my <a href="resume.php">resume</a> for more details. i'm sure everything else
+          will be kinda boring, so that sucks.</p>
+      <h3>how to reach me</h3>
+      <ul>
+          <li>email — <a href="mailto:zsolt5000@gmail.com">zsolt5000@gmail.com</a></li>
+          <li>discord — YellowberryHN#0483</li>
+          <li>skype — <a href="skype:zsoltisawesome?chat">zsoltisawesome</a></li>
+          <li>twitter — <a href="https://twitter.com/fireberry1337">fireberry1337</a></li>
+          <li>youtube — <a href="https://youtube.com/user/zsoltisawesome">YellowberryHN</a></li>
+          <li>cellular — <a href="tel:+13852556738">+1 (385) 255-6738</a></li>
+          <li>irc — zsoltisawesome on <a href="irc://irc.freenode.net/zsoltisawesome">freenode</a></li>
+      </ul>
+      <p>i will eventually put more stuff here, but for now this is all i will write.</p>
     </body>
 </html>
