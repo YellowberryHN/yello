@@ -1,10 +1,11 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!DOCTYPE HTML>
 <html>
     <head>
         <meta charset="utf-8">
         <meta name="theme-color" content="#ffff00">
         <meta name="apple-mobile-web-app-status-bar-style" content="#ffff00">
         <link rel="stylesheet" href="style.css">
+        <link rel="icon" type="image/png" href="https://yello.ooo/res/icon-32.png">
         <title>yello.ooo — your local hellhole</title>
     </head>
     <body>
@@ -22,6 +23,12 @@
           <li>youtube — <a href="https://youtube.com/user/zsoltisawesome">YellowberryHN</a></li>
           <li>cellular — <a href="tel:+13852556738">+1 (385) 255-6738</a></li>
           <li>irc — zsoltisawesome on <a href="irc://irc.freenode.net/zsoltisawesome">freenode</a></li>
+      </ul>
+      <h3>my projects</h3>
+      <ul>
+          <li><a href="https://harpnetstudios.com">harpnet studios</a> — my game company</li>
+          <li><a href="http://ddddwasd.gq">ddddwasd</a> — file dropper</li>
+          <li><a href="https://yello.ooo/blog/">yello|blog</a> - my blog, obviously</li>
       </ul>
       <p>i will eventually put more stuff here, but for now this is all i will write.</p>
       <h5>full source available on <a href="https://github.com/realtinymonster/yello">github</a></h5>
