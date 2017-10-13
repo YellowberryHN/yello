@@ -15,7 +15,7 @@
           will be kinda boring, so that sucks.</p>
       <h3>how to reach me</h3>
       <ul>
-          <li>email — <a href="mailto:zsolt5000@gmail.com">zsolt5000@gmail.com</a></li>
+          <li>email — <a href="mailto:yellowberry@cocaine.ninja">yellowberry@cocaine.ninja</a></li>
           <li>discord — YellowberryHN#0483</li>
           <li>skype — <a href="skype:zsoltisawesome?chat">zsoltisawesome</a></li>
           <li>twitter — <a href="https://twitter.com/fireberry1337">fireberry1337</a></li>
@@ -24,5 +24,6 @@
           <li>irc — zsoltisawesome on <a href="irc://irc.freenode.net/zsoltisawesome">freenode</a></li>
       </ul>
       <p>i will eventually put more stuff here, but for now this is all i will write.</p>
+      <h5>full source available on <a href="https://github.com/realtinymonster/yello">github</a></h5>
     </body>
 </html>
