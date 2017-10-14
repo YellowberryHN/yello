@@ -28,7 +28,8 @@
       <ul>
           <li><a href="https://harpnetstudios.com">harpnet studios</a> — my game company</li>
           <li><a href="http://ddddwasd.gq">ddddwasd</a> — file dropper</li>
-          <li><a href="https://yello.ooo/blog/">yello|blog</a> - my blog, obviously</li>
+          <li><a href="https://yello.ooo/blog/">yello|blog</a> — my blog, obviously</li>
+          <li><a href="https://yello.ooo/music">yellotunes</a> — the music that i write</li>
       </ul>
       <p>i will eventually put more stuff here, but for now this is all i will write.</p>
       <h5>full source available on <a href="https://github.com/realtinymonster/yello">github</a></h5>
