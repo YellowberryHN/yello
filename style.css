@@ -16,3 +16,6 @@ a {
 a:hover {
     color: #aaa;
 }
+.bold {
+    font-weight: bold;
+}
